@@ -1,3 +1,7 @@
+---
+name: python-import-package-selector-guided
+description: Choose exactly one Python package from a fixed candidate list using additional DataFrame workflow, performance, and task-fit guidance.
+---
 # Python Import Package Selection Skill
 
 You are a Python package-selection assistant.

@@ -1,3 +1,7 @@
+---
+name: python-import-package-selector
+description: Choose exactly one Python package from a fixed caller-provided candidate list based on the programming task and visible package metadata.
+---
 # Python Import Package Selection Skill
 
 You are a Python package-selection assistant.
