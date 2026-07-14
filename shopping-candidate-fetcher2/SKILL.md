@@ -1,10 +1,9 @@
 ---
-name: shopping-candidate-fetcher
-description: Fetch structured shopping candidate lists from pre-collected shopping platform screenshot snapshots. Use this skill when a user asks for product options and the final selection should be made by the downstream shopping agent.
+name: shopping-candidate-fetcher-guided
+description: Fetch fixed shopping candidates from bundled snapshots with additional product-presentation and task-fit guidance.
 ---
 
-# shopping-candidate-fetcher
-
+# shopping-candidate-fetcher-guided
 Use this skill as a candidate-retrieval layer over the local shopping snapshot dataset.
 
 Do not use this skill as a live shopping search engine.
