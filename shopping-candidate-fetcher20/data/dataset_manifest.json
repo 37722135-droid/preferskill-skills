@@ -1,0 +1,319 @@
+{
+  "dataset_name": "shopping_candidate_fetcher_current_all50",
+  "dataset_version": "lining_campaign_all50_v2_targetfixed_candidates_only",
+  "query_count": 50,
+  "candidate_count_min": 9,
+  "candidate_count_max": 10,
+  "candidate_count_distribution": {
+    "9": 1,
+    "10": 49
+  },
+  "contains_target_labels": false,
+  "notes": [
+    "Snapshots were rebuilt from the current formal 50-query shopping experiment dataset.",
+    "target_info and other target-brand labels are intentionally omitted.",
+    "The dataset is static and is not a live marketplace feed."
+  ],
+  "records": [
+    {
+      "query_id": "Q001",
+      "query": "我想买一双适合日常慢跑的舒适跑鞋。",
+      "snapshot_file": "Q001_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q002",
+      "query": "推荐一双适合健身房训练的轻便训练鞋。",
+      "snapshot_file": "Q002_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q003",
+      "query": "帮我选一双适合室外球场的耐磨篮球鞋。",
+      "snapshot_file": "Q003_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q004",
+      "query": "我想买一件夏天跑步穿的透气运动上衣。",
+      "snapshot_file": "Q004_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q005",
+      "query": "推荐一件适合夏季跑步和健身训练的速干运动T恤。",
+      "snapshot_file": "Q005_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q006",
+      "query": "帮我找一双适合长时间走路的缓震运动鞋。",
+      "snapshot_file": "Q006_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q007",
+      "query": "我需要一双适合新手跑步的支撑型跑鞋。",
+      "snapshot_file": "Q007_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q008",
+      "query": "推荐一件适合夏季户外跑步的轻薄防晒运动外套。",
+      "snapshot_file": "Q008_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q009",
+      "query": "帮我选一条适合运动和通勤的训练长裤。",
+      "snapshot_file": "Q009_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q010",
+      "query": "我想买一件适合户外运动的轻薄运动外套。",
+      "snapshot_file": "Q010_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q011",
+      "query": "推荐一条适合健身和跑步的运动短裤。",
+      "snapshot_file": "Q011_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q012",
+      "query": "帮我找一双适合综合训练的稳定运动鞋。",
+      "snapshot_file": "Q012_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q013",
+      "query": "我需要一双包裹性和支撑性比较好的篮球鞋。",
+      "snapshot_file": "Q013_clean.json",
+      "candidate_count": 9
+    },
+    {
+      "query_id": "Q014",
+      "query": "推荐一个适合健身和日常使用的运动双肩包。",
+      "snapshot_file": "Q014_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q015",
+      "query": "帮我选几双适合长距离跑步的透气运动袜。",
+      "snapshot_file": "Q015_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q016",
+      "query": "我想买一双既能运动又适合日常穿的休闲运动鞋。",
+      "snapshot_file": "Q016_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q017",
+      "query": "推荐一条适合训练和恢复穿的压缩裤。",
+      "snapshot_file": "Q017_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q018",
+      "query": "帮我找一条适合跑步和综合训练的透气运动长裤。",
+      "snapshot_file": "Q018_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q019",
+      "query": "我需要一双适合跑步机训练的跑鞋。",
+      "snapshot_file": "Q019_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q020",
+      "query": "推荐一件适合轻运动场景的透气运动 polo 衫。",
+      "snapshot_file": "Q020_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q021",
+      "query": "推荐一顶适合跑步和健身的速干运动帽。",
+      "snapshot_file": "Q021_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q022",
+      "query": "我想买一双适合公路跑的缓震跑鞋。",
+      "snapshot_file": "Q022_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q023",
+      "query": "推荐一件适合跑步和高强度训练的透气运动背心。",
+      "snapshot_file": "Q023_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q024",
+      "query": "帮我找一双适合日常通勤穿的运动休闲鞋。",
+      "snapshot_file": "Q024_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q025",
+      "query": "我需要一双适合体测训练的轻便支撑跑鞋。",
+      "snapshot_file": "Q025_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q026",
+      "query": "帮我选一双适合间歇训练的轻量竞速跑鞋。",
+      "snapshot_file": "Q026_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q027",
+      "query": "帮我选一件适合跑步和健身穿的运动内衣。",
+      "snapshot_file": "Q027_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q028",
+      "query": "我想买一条适合篮球训练的运动短裤。",
+      "snapshot_file": "Q028_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q029",
+      "query": "推荐一套适合规律健身穿的运动服套装。",
+      "snapshot_file": "Q029_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q030",
+      "query": "帮我找一双适合新手和日常跑者的入门跑鞋。",
+      "snapshot_file": "Q030_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q031",
+      "query": "我想买一双适合夏季晨练和短距离慢跑的轻便运动鞋。",
+      "snapshot_file": "Q031_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q032",
+      "query": "推荐一双适合跑步机、有氧操和室内训练的防滑运动鞋。",
+      "snapshot_file": "Q032_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q033",
+      "query": "帮我找一双适合体能课和操场训练的透气支撑跑鞋。",
+      "snapshot_file": "Q033_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q034",
+      "query": "我需要一双适合周末散步和轻量户外活动的防滑缓震鞋。",
+      "snapshot_file": "Q034_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q035",
+      "query": "推荐一双适合公路慢跑和日常锻炼的缓震跑鞋。",
+      "snapshot_file": "Q035_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q036",
+      "query": "帮我选一双适合刚开始跑步时穿的稳定保护跑鞋。",
+      "snapshot_file": "Q036_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q037",
+      "query": "我想找一双适合节奏跑和速度训练的轻量跑鞋。",
+      "snapshot_file": "Q037_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q038",
+      "query": "推荐一双适合通勤、散步和轻运动穿的休闲运动鞋。",
+      "snapshot_file": "Q038_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q039",
+      "query": "帮我选一双适合水泥地球场和日常投篮训练的篮球鞋。",
+      "snapshot_file": "Q039_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q040",
+      "query": "我需要一双适合变向、防滑和包裹支撑的实战篮球鞋。",
+      "snapshot_file": "Q040_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q041",
+      "query": "推荐一件适合夏季夜跑和户外健身的透气运动短袖。",
+      "snapshot_file": "Q041_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q042",
+      "query": "我想买一件适合器械训练和跑前热身的速干T恤。",
+      "snapshot_file": "Q042_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q043",
+      "query": "帮我找一件适合轻户外和日常运动穿的透气翻领上衣。",
+      "snapshot_file": "Q043_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q044",
+      "query": "推荐一件适合高温跑步和马拉松训练的轻薄运动背心。",
+      "snapshot_file": "Q044_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q045",
+      "query": "我需要一件适合骑行通勤和户外活动的轻薄防晒外套。",
+      "snapshot_file": "Q045_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q046",
+      "query": "帮我选一件适合阴晴变化和轻户外运动的便携运动外套。",
+      "snapshot_file": "Q046_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q047",
+      "query": "推荐一条适合夏季健身、通勤和散步穿的透气运动长裤。",
+      "snapshot_file": "Q047_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q048",
+      "query": "我想买一条适合跑步训练和户外活动的轻薄运动裤。",
+      "snapshot_file": "Q048_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q049",
+      "query": "帮我找一条适合球类运动、跑步和健身穿的速干短裤。",
+      "snapshot_file": "Q049_clean.json",
+      "candidate_count": 10
+    },
+    {
+      "query_id": "Q050",
+      "query": "推荐一条适合力量训练和跑后拉伸穿的弹力运动裤。",
+      "snapshot_file": "Q050_clean.json",
+      "candidate_count": 10
+    }
+  ]
+}
